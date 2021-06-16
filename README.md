@@ -42,3 +42,7 @@ update = True,                                                              #If 
 
 fullscreen = False)                                                         #If we want to display the graph in fullscreen
 ```
+
+## Gif
+
+![Alt Text](https://media.giphy.com/media/mbHgScN7XroodbaJQp/source.gif)
