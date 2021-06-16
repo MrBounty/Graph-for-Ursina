@@ -6,12 +6,12 @@ It takes the argument of an entity and displays it.
 
 ## Exemples
 
-the simplest example:
+The simplest example:
 ```python
 Little_Graph(slider_x, 'value')
 ```
 
-for the second graph at the top left just below the first:
+Second graph at the top left just below the first:
 ```python
 Little_Graph(slider_y, 'value', line=True, point=False, position=2, average=True)
 ```
